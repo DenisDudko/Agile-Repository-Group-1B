@@ -29,3 +29,9 @@ return true;
  
 
 } // end method2 
+
+public char method3() {
+		
+			return 'Z';
+		
+		} // end method3
