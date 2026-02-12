@@ -1,10 +1,15 @@
 public class Demo1 {
 	
-			public int method1(int number) {
-		
-				int square = number * number;
-				return square;
+			public float method1(float number) { 
 
-			} // end method1
+ 
+
+float square = number * number; 
+
+return square; 
+
+ 
+
+} // end method1 
 	
 }// end Demo1
