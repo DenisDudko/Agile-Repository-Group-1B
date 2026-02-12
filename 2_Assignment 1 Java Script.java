@@ -13,3 +13,19 @@ return square;
 } // end method1 
 	
 }// end Demo1
+
+public boolean method2(char letter, float number) { 
+
+ 
+
+if ((letter == 'A') && (number == 12.0)) 
+
+return false; 
+
+ 
+
+return true; 
+
+ 
+
+} // end method2 
